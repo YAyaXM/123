@@ -1,7 +1,7 @@
 # Site settings
 title: MARK
 SEOTitle: 小徐的博客
-header-img: img/tim.jpg
+header-img: img/img_home.jpg
 email: 1279563567@qq.com
 description: "事在人为."
 keyword: "AI"
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "",
         href: ""
     }
 ]
